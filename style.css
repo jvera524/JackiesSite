@@ -1,4 +1,4 @@
-h1 {
+.txtft {
 color: orange;
   text-align: center;
 }
@@ -14,9 +14,10 @@ div {
 img {
     height: 250;
   width: 500;
+  width: 50%;
 }
 
 li {
   text-align: center;
-  
+  color: green;
 }
