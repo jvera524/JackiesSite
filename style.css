@@ -1,3 +1,16 @@
 h1 {
 color: orange;
 }
+
+div {
+  height: 250;
+  width: 500;
+  background: purple;
+  color: gold;
+  align: center;
+}
+
+img {
+    height: 250;
+  width: 500;
+}
