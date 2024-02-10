@@ -1,5 +1,6 @@
 h1 {
 color: orange;
+  text-align: center;
 }
 
 div {
@@ -7,10 +8,15 @@ div {
   width: 500;
   background: purple;
   color: gold;
-  align: center;
+  text-align: center;
 }
 
 img {
     height: 250;
   width: 500;
+}
+
+li {
+  text-align: center;
+  
 }
